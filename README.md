@@ -23,7 +23,7 @@ A pack of 10 playable Yoshis for SM64 Co-op Deluxe
  
 ## Installation
 
- Download and install [SM64 Co-op Deluxe](https://coop-enhanced.github.io/) if you don't have it installed already. After that, download the Character Select API and extract it to your mods folder. Then download the Yoshi Pack, and extract it to your mods folder. After that, start SM64 Co-op Deluxe, go to "Mods & Gamemodes", enable these 2 mods, then click back, then click host!
+ Download and install [SM64 Co-op Deluxe](https://coop-enhanced.github.io/) if you don't have it installed already. After that, download the [Character Select API](https://github.com/Coolcord/Level-Headed/releases/download/v1.0.0/Character.Select.API.v1.8.7z) and extract it to your mods folder. Then download [Yoshi Pack](https://github.com/Coolcord/Level-Headed/releases/download/v1.0.0/SM64.Co-op.Yoshi.Pack.v1.0.7z), and extract it to your mods folder. After that, start SM64 Co-op Deluxe, go to "Mods & Gamemodes", enable these 2 mods, then click back, then click host!
  
 ## Credits
 
