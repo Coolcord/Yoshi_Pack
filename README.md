@@ -7,7 +7,7 @@ A pack of 10 playable Yoshis for SM64 Co-op Deluxe
 [![Github all releases](https://img.shields.io/github/downloads/Coolcord/Yoshi_Pack/total.svg)](https://GitHub.com/Coolcord/Yoshi_Pack/releases)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-# [Download](https://github.com/Coolcord/Level-Headed/releases/download/v1.0.0/SM64.Co-op.Yoshi.Pack.v1.0.7z)
+# [Download](https://github.com/Coolcord/Yoshi_Pack/releases/download/v1.0.0/SM64.Co-op.Yoshi.Pack.v1.0.7z)
 
 ## About Yoshi Pack
 
@@ -19,11 +19,11 @@ A pack of 10 playable Yoshis for SM64 Co-op Deluxe
  - \[CS\] Yoshi Pack
  - \[CS\]-R96 Yoshi Pack
  
- "\[CS\] Yoshi Pack" uses a model that fits the N64 theme. "\[CS\]-R96 Yoshi Pack" is the Render96 variant that is intended to fit with the Render96 graphics mod. Each mod can be run separately or together at the same time. Both mods require v1.8+ of the [Character Select mod](https://github.com/Squishy6094/character-select-coop/releases/latest) to work. I would recommend to download it straight from the official repository to get the latest updates, but in case that is down, you can download [v1.8 of Character select here](https://github.com/Coolcord/Level-Headed/releases/download/v1.0.0/Character.Select.API.v1.8.7z).
+ "\[CS\] Yoshi Pack" uses a model that fits the N64 theme. "\[CS\]-R96 Yoshi Pack" is the Render96 variant that is intended to fit with the Render96 graphics mod. Each mod can be run separately or together at the same time. Both mods require v1.8+ of the [Character Select mod](https://github.com/Squishy6094/character-select-coop/releases/latest) to work. I would recommend to download it straight from the official repository to get the latest updates, but in case that is down, you can download [v1.8 of Character select here](https://github.com/Coolcord/Yoshi_Pack/releases/download/v1.0.0/Character.Select.API.v1.8.7z).
  
 ## Installation
 
- Download and install [SM64 Co-op Deluxe](https://coop-enhanced.github.io/) if you don't have it installed already. After that, download the [Character Select API](https://github.com/Coolcord/Level-Headed/releases/download/v1.0.0/Character.Select.API.v1.8.7z) and extract it to your mods folder. Then download [Yoshi Pack](https://github.com/Coolcord/Level-Headed/releases/download/v1.0.0/SM64.Co-op.Yoshi.Pack.v1.0.7z), and extract it to your mods folder. After that, start SM64 Co-op Deluxe, go to "Mods & Gamemodes", enable these 2 mods, then click back, then click host!
+ Download and install [SM64 Co-op Deluxe](https://coop-enhanced.github.io/) if you don't have it installed already. After that, download the [Character Select API](https://github.com/Coolcord/Yoshi_Pack/releases/download/v1.0.0/Character.Select.API.v1.8.7z) and extract it to your mods folder. Then download [Yoshi Pack](https://github.com/Coolcord/Yoshi_Pack/releases/download/v1.0.0/SM64.Co-op.Yoshi.Pack.v1.0.7z), and extract it to your mods folder. After that, start SM64 Co-op Deluxe, go to "Mods & Gamemodes", enable these 2 mods, then click back, then click host!
  
 ## Credits
 
