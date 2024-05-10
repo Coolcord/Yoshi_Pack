@@ -13,7 +13,7 @@ A pack of 10 playable Yoshis for SM64 Co-op Deluxe
 
  Yoshi Pack contains 10 different Yoshis, each with their own color and voice pitch, that are playable in the PC port of Super Mario 64. The playable Yoshis also have the added ability to flutter jump in the air, and retain the same moveset that Mario did otherwise.
  
- Yoshi Pack is intended to be used with SM64 Co-op Deluxe, but may work with other derivatives. The pack relies on v1.8+ of the Character Select API by Squishy6094 and requires it to be installed for it to operate.
+ Yoshi Pack is intended to be used with [SM64 Co-op Deluxe](https://coop-enhanced.github.io/), but may work with other derivatives. The pack relies on v1.8+ of the Character Select API by Squishy6094 and requires it to be installed for it to operate.
  
  There are 2 different versions of Yoshi Pack included here:
  - \[CS\] Yoshi Pack
@@ -21,10 +21,14 @@ A pack of 10 playable Yoshis for SM64 Co-op Deluxe
  
  "\[CS\] Yoshi Pack" uses a model that fits the N64 theme. "\[CS\]-R96 Yoshi Pack" is the Render96 variant that is intended to fit with the Render96 graphics mod. Each mod can be run separately or together at the same time. Both mods require v1.8+ of the [Character Select mod](https://github.com/Squishy6094/character-select-coop/releases/latest) to work. I would recommend to download it straight from the official repository to get the latest updates, but in case that is down, you can download [v1.8 of Character select here](https://github.com/Coolcord/Level-Headed/releases/download/v1.0.0/Character.Select.API.v1.8.7z).
  
+## Installation
+
+ Download and install [SM64 Co-op Deluxe](https://coop-enhanced.github.io/) if you don't have it installed already. After that, download the Character Select API and extract it to your mods folder. Then download the Yoshi Pack, and extract it to your mods folder. After that, start SM64 Co-op Deluxe, go to "Mods & Gamemodes", enable these 2 mods, then click back, then click host!
+ 
 ## Credits
 
- Squishy6094: Character Select API
- Lucho_Gamer: Some Code and Sounds
- Cheeseter: N64 Yoshi Player Model
- melzinoff: Yoshi Cap Models
- YellowBlur: Flutter Jump Code
+ - Squishy6094: Character Select API
+ - Lucho_Gamer: Some Code and Sounds
+ - Cheeseter: N64 Yoshi Player Model
+ - melzinoff: Yoshi Cap Models
+ - YellowBlur: Flutter Jump Code
