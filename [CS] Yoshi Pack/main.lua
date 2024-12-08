@@ -1,5 +1,5 @@
 -- name: [CS] Yoshi Pack
--- description: 10 different colors of Yoshis! Each with their own voice pitch and flutter jump!\n\n\\#ff7777\\This Mod Requires the Character Select Mod\nto use as a Library!
+-- description: Yoshi Pack v1.1\n10 different colors of Yoshis! Each with their own voice pitch and flutter jump!\n\n\\#ff7777\\This Mod Requires the Character Select Mod\nto use as a Library!
 
 local TEXT_MOD_NAME = "Yoshi Pack"
 local CHARACTER_DESCRIPTION = {
@@ -794,7 +794,7 @@ function mario_update(m)
     local np = gNetworkPlayers[m.playerIndex]
 
 	-- Flutter Jump
-    if gPlayerSyncTable[0].yoshiMoveset and gMarioStates[0].character.type == 0 then
+    if gPlayerSyncTable[0].yoshiMoveset then
         if e.canflutter == true then
             if m.action == ACT_JUMP and (m.controller.buttonPressed & A_BUTTON) ~= 0 and m.actionTimer > 0 or m.action == ACT_DOUBLE_JUMP and (m.controller.buttonPressed & A_BUTTON) ~= 0 and m.actionTimer > 0 or m.action == ACT_TRIPLE_JUMP and (m.controller.buttonPressed & A_BUTTON) ~= 0 and m.actionTimer > 0 or m.action == ACT_SIDE_FLIP and (m.controller.buttonPressed & A_BUTTON) ~= 0 and m.actionTimer > 0 or m.action == ACT_FREEFALL and m.prevAction ~= ACT_FLUTTER and (m.controller.buttonPressed & A_BUTTON) ~= 0 and m.actionTimer > 0 then
                 set_mario_action(m, ACT_FLUTTER, 0)
